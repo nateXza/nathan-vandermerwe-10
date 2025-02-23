@@ -35,7 +35,7 @@ bash
 Copy
 1
 2
-git clone https://github.com/your-username/linear-regression-rust.git
+git clone https://github.com/nathan-vandermerwe-10/linear-regression-rust.git
 cd linear-regression-rust
 Install Dependencies :
 Add the required dependencies to your Cargo.toml:
